@@ -52,7 +52,7 @@ No external api's as of now
 
 ### Mockups
 
-Provide visuals of your app's screens. You can use pictures of hand-drawn sketches, or wireframing tools like Figma.
+![Figma Mockup!](https://github.com/ara-ventura/ara-ventura-capstone/blob/[main/DentaShift.png?raw=true)
 
 ### Data
 
