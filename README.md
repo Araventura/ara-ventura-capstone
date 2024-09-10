@@ -52,7 +52,7 @@ No external api's as of now
 
 ### Mockups
 
-![Figma Mockup!](https://github.com/ara-ventura/ara-ventura-capstone/blob/main/DentaShift.png?raw=true)
+![Figma Mockup!](DentaShift.png)
 
 ### Data
 
