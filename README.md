@@ -62,20 +62,12 @@ Describe your data and the relationships between the data points. You can show t
 
 ### Endpoints
 
-- GET clinics
-- GET clinic/:id
-- GET clinic/:id/jobs
-- POST clinic/jobs
-- DELETE clinic/:id 
-- DELETE clinic/jobs/:id
-
-- GET staff
-- GET staff/:id 
-- GET staff/:id/jobs
-- POST staff/jobs
-- DELETE staff/jobs/:id
-- DELETE staff/:id 
-
+- GET offices
+- GET offices/:id
+- GET offices/:id/jobs
+- POST offices/jobs
+- DELETE offices/:id 
+- DELETE offices/jobs/:id
 
 ## Roadmap
 
@@ -98,5 +90,10 @@ Your project will be marked based on what you committed to in the above document
 - FEATURES: Payment Processing / Advanced Search and Filters / Comprehensive Profile and Verification / Detailed Analytics and Reporting / Expanded Rating and Review System
 - ENDPOINTS:
   - PATCH clinic/edit
-  - PATCH staff/edit 
+  - PATCH staff/edit - GET professionals
+  - GET professionals/:id 
+  - GET professionals/:id/jobs
+  - POST professionals/jobs
+  - DELETE professionals/jobs/:id
+  - DELETE professionals/:id 
 
