@@ -1,4 +1,4 @@
-# DentalShift
+# DentaShift
 
 ## Overview
 
