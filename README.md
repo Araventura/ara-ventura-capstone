@@ -3,8 +3,8 @@
 
 ## Links to the Client and Server: 
 
--[Client](https://github.com/Araventura/ara-ventura-capstone-client)
--[Server](https://github.com/Araventura/ara-ventura-capstone-server)
+- [Client](https://github.com/Araventura/ara-ventura-capstone-client)
+- [Server](https://github.com/Araventura/ara-ventura-capstone-server)
 
 ## Overview
 
