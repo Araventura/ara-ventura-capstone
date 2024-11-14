@@ -2,7 +2,7 @@
 
 
 ##Links to the Client and Server: 
-markdown
+
 [Client](https://github.com/Araventura/ara-ventura-capstone-client)
 [Server](https://github.com/Araventura/ara-ventura-capstone-server)
 
