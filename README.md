@@ -1,5 +1,11 @@
 # DentaShift
 
+
+##Links to the Client and Server: 
+markdown
+[Client](https://github.com/Araventura/ara-ventura-capstone-client)
+[Server](https://github.com/Araventura/ara-ventura-capstone-server)
+
 ## Overview
 
 A friendly website that helps you find dental staff for your clinic when you need them the most. You can find doctors, hygienist, dental assistants, chairside assistants, receptionists and more! Psst... you can also offer your services here!
